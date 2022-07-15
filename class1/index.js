@@ -1,6 +1,6 @@
 var x = true; // var must not be used
 let number = 10;
-let number2 = "20";
+let number2 = 150;
 const name = "juan";
 let result = number + number2; // concatenation
 
