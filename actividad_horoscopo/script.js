@@ -1,6 +1,7 @@
 mes = prompt("ingresa tu mes de nacimiento") // string
 nacimiento =  parseInt(prompt("ingresa tu dia de nacimiento") )  // int
 
+
 if ( nacimiento <= 31) {
 
  switch (mes) {
@@ -130,7 +131,7 @@ if ( nacimiento <= 31) {
 
 
     default:
-        alert("error 24")
+        alert("SU NOMBRE DE MES NO EXISTE O ESTA MAL DIGITADO")
         break;
  }
 }
