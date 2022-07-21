@@ -69,7 +69,7 @@ if ( nacimiento <= 31) {
         }
         break; 
     
-        case "julio":
+    case "julio":
             
         if (nacimiento <= 22) {
             alert("CANCER")
@@ -79,7 +79,7 @@ if ( nacimiento <= 31) {
             
             break;
     
-        case "agosto":
+    case "agosto":
             
 
         if (nacimiento <= 22) {
@@ -90,7 +90,7 @@ if ( nacimiento <= 31) {
 
             break;  
     
-        case "septiembre":
+    case "septiembre":
 
         if (nacimiento <= 22) {
             alert("VIRGO")
@@ -100,7 +100,7 @@ if ( nacimiento <= 31) {
             
             break; 
     
-        case "octubre":
+    case "octubre":
 
         if (nacimiento <= 22) {
             alert("LIBRA")
@@ -110,7 +110,7 @@ if ( nacimiento <= 31) {
             
             break; 
     
-        case "noviembre":
+    case "noviembre":
          
         if (nacimiento <= 21) {
             alert("ESCORPION")
@@ -120,7 +120,7 @@ if ( nacimiento <= 31) {
             
             break; 
     
-        case "diciembre":
+    case "diciembre":
             
         if (nacimiento <= 21) {
             alert("SAGITARIO")
